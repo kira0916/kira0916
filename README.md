@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kira0916/kira0916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
