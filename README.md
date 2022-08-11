@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 <a href="https://heeyunchai.notion.site/Kubernetes-07aaa582833943a1a3e70c967b470dbd"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
   <a href="https://heeyunchai.notion.site/Kubernetes-07aaa582833943a1a3e70c967b470dbd"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
 
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog.io/@somm)
+
 </div>
