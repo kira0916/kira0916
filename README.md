@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 <a href="https://heeyunchai.notion.site/Terraform-d64c3c2ab2714b3989a68feb07749f51"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/></a>
 <a href="https://heeyunchai.notion.site/Amazon-Web-Service-23177a50eef943e09d6f6b1dc6a7e139"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 <a href="https://heeyunchai.notion.site/Docker-14bd7db7eb5442e5b0b96c09a30983ad"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
-
+<a href="https://heeyunchai.notion.site/Kubernetes-07aaa582833943a1a3e70c967b470dbd"><img src="https://img.shields.io/badgeKubernetes-326CES?style=flat-square&logo=Kubernetes&logoColor=white"/></a>
