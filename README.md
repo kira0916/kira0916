@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 <a href="https://heeyunchai.notion.site/3ace6349826d4fa48643da0c8c5ad1ac"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/>
 
