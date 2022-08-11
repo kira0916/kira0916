@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 <div align="center"> 
   
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=B897FF&height=150&section=header&text=Heeyun_Chai&fontSize=45&fontColor=FFFFFF)
+<br/>
+ 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkira0916&count_bg=%23E79DE6&title_bg=%23DB69DA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <br/>
-<br/>
-  
+<br/>  
   #### :clipboard: Once I've Used 
 <a href="https://heeyunchai.notion.site/3ace6349826d4fa48643da0c8c5ad1ac"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 <a href="https://heeyunchai.notion.site/Terraform-d64c3c2ab2714b3989a68feb07749f51"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/></a>
