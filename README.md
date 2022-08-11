@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 <a href="https://heeyunchai.notion.site/3ace6349826d4fa48643da0c8c5ad1ac"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/>
+<a href="https://heeyunchai.notion.site/Amazon-Web-Service-23177a50eef943e09d6f6b1dc6a7e139"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 
